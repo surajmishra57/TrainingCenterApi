@@ -1,7 +1,7 @@
 # TrainingCenterApi
-step 1 : download zip folder and extrect it\n
-setp 2 : import folder in IDE\n
-step 3 : open postman and put the url\n
+#step 1 : download zip folder and extrect it
+#setp 2 : import folder in IDE
+#step 3 : open postman and put the url
 
 get : localhost:8080/trainingcenter/
 post : localhost:8080/trainingcenter/
