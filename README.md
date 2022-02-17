@@ -8,15 +8,5 @@ post : localhost:8080/trainingcenter/
 
 put data in json formate :-
 
-{
-    "centerName" : "PCTI",
-    "centerCode" : "PCTI000E589",
-    "capacity" : 600,
-    "address" : {"detailedAddress":"House No 858 Pritampura",
-    "city":"Delhi",
-    "state" : "Delhi",
-    "pincode" : "524847"},
-    "course" : [{"courseName":"C Language"},{"courseName":"Java"},{"courseName":"Python"},{"courseName":"Php"}],
-    "contectEmail" : "suraj@gmail.com",
-    "contectPhone" : "5645875454"
-}
+![Capture](https://user-images.githubusercontent.com/52094235/154453634-26640217-7647-4397-be68-be3989ca713d.PNG)
+
