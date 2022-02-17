@@ -5,7 +5,11 @@ setp 2 : import folder in IDE
 
 step 3 : open postman and put the url
 
+GET ALL TRAINING CENTER FROM DATABASE
+
 get : localhost:8080/trainingcenter/
+
+CREATE NEW TRANING CENTER 
 
 post : localhost:8080/trainingcenter/
 
